@@ -1,0 +1,11 @@
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.csproj.AssemblyReference.cache
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.Form1.resources
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.Properties.Resources.resources
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.csproj.GenerateResource.cache
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.csproj.CoreCompileInputs.cache
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\bin\Debug\TestApp_connectDB.exe.config
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\bin\Debug\TestApp_connectDB.exe
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\bin\Debug\TestApp_connectDB.pdb
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.exe
+C:\Users\hirot\Desktop\C#_training\TestApp_connectDB\TestApp_connectDB\obj\Debug\TestApp_connectDB.pdb
